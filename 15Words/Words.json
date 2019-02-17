@@ -1,0 +1,24 @@
+{ "words" : [
+    {"hello": [
+        {"argentina" : {
+            "word" : "hola",
+            "language" : "spanish"
+        }},
+        {"corea" : {
+            "word" : "wachin",
+            "language" : "corean"
+        }}
+    ]},
+    {"goodbye": [
+        {"argentina" : {
+            "word" : "adios",
+            "language" : "spanish"
+        }},
+        {"corea" : {
+            "word" : "chachin",
+            "language" : "corean"
+        }}
+    ]}
+]}
+
+
